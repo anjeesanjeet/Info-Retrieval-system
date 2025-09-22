@@ -6,7 +6,7 @@
 clone the repository
 
 ```bash
-Project repo: https://github.com/
+Project repo: https://github.com/anjeesanjeet/Info-Retrieval-system
 ```
 
 ### STEP 1 - Create a conda environment after opening the repository
